@@ -19,7 +19,7 @@
 			<div class="form-group">
 				<label for="title">Note Title </label> <input name="title" required
 					type="text" class="form-control" id="title"
-					aria-describedby="emailHelp" placeholder="Enter here..." />
+					aria-describedBy="emailHelp" placeholder="Enter here..." />
 			</div>
 			<div class="form-group">
 				<label for="exampleInputPassword1">Note Content </label>
